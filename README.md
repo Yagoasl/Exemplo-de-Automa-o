@@ -37,3 +37,5 @@ Um cliente deseja:
 Para rodar o `Teste 01`, basta digitar no terminal `robot -d .\Results_Automação\ .\Exercicio_automação.robot`.
 
 Os `logs, reports e prints` estaram na pasta `.\Results_Automação\`.
+
+O email pode ser trocado, utilizei o site `https://10minutemail.net/?lang=pt-br`, para utilizar emails válidos.
