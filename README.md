@@ -44,9 +44,4 @@ O email pode ser trocado, utilizei o site `https://10minutemail.net/?lang=pt-br`
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-
-Feito com :heart: por <a href="https://github.com/Yagoasl" target="_blank">Yago Lourenço</a>
-
-&#xa0;
-
 <a href="#top">Voltar para o topo</a>
