@@ -39,3 +39,14 @@ Para rodar o `Teste 01`, basta digitar no terminal `robot -d .\Results_Automaç�
 Os `logs, reports e prints` estaram na pasta `.\Results_Automação\`.
 
 O email pode ser trocado, utilizei o site `https://10minutemail.net/?lang=pt-br`, para utilizar emails válidos.
+
+## Licença
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
+Feito com :heart: por <a href="https://github.com/Yagoasl" target="_blank">Yago Lourenço</a>
+
+&#xa0;
+
+<a href="#top">Voltar para o topo</a>
