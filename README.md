@@ -28,9 +28,9 @@ Um cliente deseja:
 
 ## Ferramentas usadas
 
--[RobotFramework](https://robotframework.org/)
--[Selenium integrado ao RobotFramework](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#library-documentation-top)
--[ChromeDriver](https://chromedriver.chromium.org/downloads)
+1. [RobotFramework](https://robotframework.org/)
+2. [Selenium integrado ao RobotFramework](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#library-documentation-top)
+3. [ChromeDriver](https://chromedriver.chromium.org/downloads)
 
 ## Como rodar
 
